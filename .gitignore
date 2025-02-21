@@ -1,6 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,r,python,latex,stata
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,r,python,latex,stata
 
+
+### Folders to ignore ###
+01_Build/0[1-3]
+
+
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
 *.aux
@@ -622,3 +627,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,r,python,latex,stata
+ 
